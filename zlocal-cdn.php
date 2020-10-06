@@ -1,3 +1,4 @@
+<?php
 global $Wcms;
 function replace_assets($args) {
 	global $Wcms;
@@ -24,3 +25,4 @@ function replace_assets($args) {
 }
 $Wcms->addListener('js', 'replace_assets');
 $Wcms->addListener('css', 'replace_assets');
+?>
