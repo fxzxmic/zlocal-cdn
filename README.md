@@ -1,2 +1,2 @@
 # zlocal-cdn
-Written by @StephanStanisic
+Written by [@StephanStanisic](https://github.com/StephanStanisic)
